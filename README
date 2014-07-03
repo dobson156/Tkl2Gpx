@@ -1,0 +1,8 @@
+to build:
+	make
+
+to run:
+	java Tkl2Gpx <tklfile>
+
+will output
+	<tklfile>.gpx
