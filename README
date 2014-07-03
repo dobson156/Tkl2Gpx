@@ -1,3 +1,9 @@
+This program converts the rather obscure TKL GPS trace format into the much more portable GPX format.
+
+The TKL format is used by:
+	* SOMA watches
+	* Ultrasport Navrun
+
 to build:
 	make
 
